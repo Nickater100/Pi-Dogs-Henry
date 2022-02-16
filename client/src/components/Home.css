@@ -1,0 +1,29 @@
+.fondo-home {
+    background-image: url("../Assets/Dogifondo.png");
+    display: -ms-flexbox;
+    height: 1440px;
+    width: 1290px;
+    margin: 0px;
+}
+
+.titulo {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size: 90px;
+    font-weight: 600;
+    margin-top: 120px;
+    margin-bottom: 56px;
+}
+
+.boton-home{
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    width: 140px;
+    height: 37px;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
+}

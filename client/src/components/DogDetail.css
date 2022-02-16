@@ -1,0 +1,64 @@
+.fondo-dog-detail {
+    
+    display: flex;
+    height: 1440px;
+    width: 1290px;
+    margin: 0px;
+}
+
+.container-amarillo {
+    display: flex;
+    background-color: rgb(232,248,245,0.8);
+    height: 420px;
+    width: 730px;
+    border-radius: 4px;
+    margin-top: 8%;
+    margin-left: 22%;
+}
+
+.container-img {
+    background-color: #ffffff;
+    height: 165px;
+    width: 200px;
+    border-radius: 4px;
+    margin-top: 8%;
+    margin-left: 7%;
+}
+
+.img-perro {
+    height: 145px;
+    width: 180px;
+    border-radius: 4px;
+    margin: 5px;
+    padding-top: 5px;
+}
+
+.descripcion-perro {
+    height: 363px;
+    width: 362px;
+    padding-top: 50px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+input {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14px;
+    background-color: #ff0000;
+    border-bottom: 1px solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: black;
+    width: 100px;
+    margin-left: 15px;
+}
+
+.container-desc-img {
+    display: flex;
+}
+
+.img-subir {
+    background-color: white;
+    padding-top: 30px;
+}

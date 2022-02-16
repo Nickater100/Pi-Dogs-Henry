@@ -1,0 +1,36 @@
+.boton-agregar-perroo{
+    height: 40px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    width: 132px;
+    height: 29px;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.nombre{
+    display:flow-root;
+}
+
+.temperamentos{
+    display: inline-grid;
+    grid-template-columns: repeat(auto-fill, 300px);
+    gap: 5px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 15px;
+    position: absolute;
+  top: 100%; left: 0; bottom: 0; right: 0;
+}
+
+.temperamentos2{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 300px);
+    gap: 25px;
+    
+    justify-content: center;
+}
